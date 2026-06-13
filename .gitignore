@@ -1,0 +1,9 @@
+composer-extracted/
+extract_composer.php
+ssl_disable.php
+test_ssl.php
+test_ssl2.php
+test_ssl3.php
+test_ssl4.php
+.idea/
+.vscode/
