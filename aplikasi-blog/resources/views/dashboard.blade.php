@@ -31,6 +31,9 @@
                                     Kontributor / Pembaca
                                 </span>
                             @endif
+                            <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold bg-slate-800/80 text-slate-300 border border-slate-700">
+                                🎓 Fahmi Zaki Darmawan (240605110239)
+                            </span>
                             <span class="text-xs text-slate-400 font-medium">{{ date('d M Y') }}</span>
                         </div>
                         <h1 class="text-2xl sm:text-3xl font-extrabold tracking-tight">

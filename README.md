@@ -1,5 +1,12 @@
 # Web CMS - Sistem Manajemen Blog (UAS Pemrograman Web)
 
+### 👤 Identitas Mahasiswa
+- **Nama**: Fahmi Zaki Darmawan
+- **NIM**: 240605110239
+- **Mata Kuliah**: Pemrograman Web (UAS)
+
+---
+
 Proyek ini adalah sistem **Web CMS (Content Management System)** untuk publikasi artikel blog, yang memisahkan peran pengguna antara **Administrator** (akses penuh) dan **User/Kontributor** (akses baca-saja). Halaman depan (publik) dapat diakses tanpa login, sedangkan manajemen konten dikelola melalui dasbor admin yang aman.
 
 ---

@@ -557,7 +557,7 @@
                     <p class="mb-0 mt-1">&copy; {{ date('Y') }} Web CMS. All rights reserved.</p>
                 </div>
                 <div class="col-md-6 text-md-end mt-3 mt-md-0">
-                    <p class="mb-0">Dibuat dengan <i class="bi bi-heart-fill text-danger"></i> menggunakan Laravel &amp; Bootstrap</p>
+                    <p class="mb-0">Dibuat oleh <strong>Fahmi Zaki Darmawan (NIM: 240605110239)</strong> dengan <i class="bi bi-heart-fill text-danger"></i> menggunakan Laravel &amp; Bootstrap</p>
                 </div>
             </div>
         </div>
